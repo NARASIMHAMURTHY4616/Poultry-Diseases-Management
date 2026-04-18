@@ -1,4 +1,5 @@
-# Poultry-Diseases-Management# Transfer Learning Based Classification of Poultry Diseases for Enhanced Health
+# Poultry-Diseases-Management
+# Transfer Learning Based Classification of Poultry Diseases for Enhanced Health
 
 This project uses transfer learning to classify poultry diseases from chicken images, helping in early detection and better farm health management.
 
